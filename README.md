@@ -1,7 +1,6 @@
 # KomonadicUIs
 
 could be implemented the approach taken for bow-arch but with kotlin and arrow?
-trying to achieve an naive implementation.
 
 ### Research:
 
